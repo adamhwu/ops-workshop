@@ -2,4 +2,4 @@
 
 hello ops!
 
-on branch-main!
+on branch-main and branch-conflict!
